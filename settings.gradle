@@ -1,0 +1,2 @@
+include ':app', ':point-cut'
+rootProject.name='XJAspectJx'
